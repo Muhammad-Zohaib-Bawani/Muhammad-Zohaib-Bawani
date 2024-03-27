@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-zohaib-bawani&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-zohaib-bawani" /> </p>
 
-<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
